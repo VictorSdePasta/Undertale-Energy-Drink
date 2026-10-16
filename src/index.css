@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #080808;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.scaled-page {
+  width: 100%;
+  position: relative;
+}
+
+[data-sticky="header"] {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
