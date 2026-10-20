@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="S&#195;&#173;mbolo de estado">
+<rect x="0.5" y="0.5" width="59" height="59" fill="#20100F"/>
+<rect x="0.5" y="0.5" width="59" height="59" stroke="#FF382F"/>
+<path id="Erro pixel" d="M16 16H24V20H28V24H32V20H36V16H44V24H40V28H36V32H40V36H44V44H36V40H32V36H28V40H24V44H16V36H20V32H24V28H20V24H16V16Z" fill="#FF382F"/>
+</g>
+</svg>

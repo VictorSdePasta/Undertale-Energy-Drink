@@ -1,0 +1,10 @@
+{
+  "description": "Explore and purchase unique energy products inspired by Undertale, featuring a responsive design, smooth navigation, and engaging visual effects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
