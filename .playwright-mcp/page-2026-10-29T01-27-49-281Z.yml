@@ -1,0 +1,483 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - button [ref=e5] [cursor=pointer]:
+      - strong [ref=e6]: UNDERTALE
+      - generic [ref=e7]: ENERGYCOLLECTION
+    - navigation "Navegação principal" [ref=e8]:
+      - button "Os 7 sabores" [ref=e9] [cursor=pointer]
+      - button "Como funciona" [ref=e10] [cursor=pointer]
+      - button "Avaliações" [ref=e11] [cursor=pointer]
+      - button "FAQ" [ref=e12] [cursor=pointer]
+    - button "Abrir sacola com 3 item" [ref=e296] [cursor=pointer]:
+      - generic [ref=e14]: Sacola
+      - generic [ref=e15]: "3"
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: BEBIDAS ENERGÉTICAS INSPIRADAS EM UNDERTALE
+        - heading "SETE ALMAS. QUAL É A SUA?" [level=1] [ref=e20]: SETE ALMAS.QUAL É A SUA?
+        - paragraph [ref=e21]: Experimente o sabor da sua alma. Sete personalidades em uma coleção feita para entrar no seu universo.
+        - button "Conhecer os 7 sabores ↗" [ref=e22] [cursor=pointer]:
+          - text: Conhecer os 7 sabores
+          - generic [ref=e23]: ↗
+      - img "Coleção com sete latas Undertale Energy, cada uma com uma alma colorida" [ref=e24]
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: ESCOLHA SUA ALMA
+          - generic [ref=e28]: 07 PERSONALIDADES / 01 COLEÇÃO
+        - generic [ref=e29]:
+          - generic [ref=e30]: Determination
+          - generic [ref=e31]: Patience
+          - generic [ref=e32]: Integrity
+          - generic [ref=e33]: Kindness
+          - generic [ref=e34]: Justice
+          - generic [ref=e35]: Bravery
+          - generic [ref=e36]: Perseverance
+    - region [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e41]: "*"
+            - paragraph [ref=e42]: 01 / ESCOLHA SUA ALMA
+          - heading "Sua próxima escolha tem sabor." [level=2] [ref=e43]
+        - generic [ref=e44]: COLEÇÃO COMPLETA [07]
+      - generic [ref=e45]:
+        - paragraph [ref=e46]: "Preços ilustrativos: R$ 14,90 por unidade. Valores e disponibilidade a confirmar."
+        - text: Sabores sugeridos pelas frutas das imagens; não representam especificações confirmadas da formulação.
+      - generic [ref=e47]:
+        - article [ref=e48]:
+          - img "Lata Determination, sabor Cereja" [ref=e50]
+          - generic [ref=e52]:
+            - generic [ref=e53]: DETERMINAÇÃO
+            - generic [ref=e55]:
+              - heading "Determination" [level=3] [ref=e56]
+              - paragraph [ref=e57]: Cereja · sabor sugerido
+            - generic [ref=e58]:
+              - strong [ref=e59]: R$ 14,90
+              - generic [ref=e60]: / lata
+            - generic [ref=e287]:
+              - generic [ref=e288]:
+                - button "Remover uma unidade de Determination" [ref=e289] [cursor=pointer]: −
+                - generic [ref=e290]:
+                  - generic [ref=e291]: "2"
+                  - generic [ref=e292]: Selecionada ✓
+                - button "Adicionar uma unidade de Determination" [ref=e293] [cursor=pointer]: +
+              - button "Remover da seleção" [ref=e294] [cursor=pointer]
+        - article [ref=e64]:
+          - img "Lata Patience, sabor Ameixa" [ref=e66]
+          - generic [ref=e68]:
+            - generic [ref=e69]: PACIÊNCIA
+            - generic [ref=e71]:
+              - heading "Patience" [level=3] [ref=e72]
+              - paragraph [ref=e73]: Ameixa · sabor sugerido
+            - generic [ref=e74]:
+              - strong [ref=e75]: R$ 14,90
+              - generic [ref=e76]: / lata
+            - generic [ref=e297]:
+              - generic [ref=e298]:
+                - button "Remover uma unidade de Patience" [ref=e299] [cursor=pointer]: −
+                - generic [ref=e300]:
+                  - generic [ref=e301]: "1"
+                  - generic [ref=e302]: Selecionada ✓
+                - button "Adicionar uma unidade de Patience" [ref=e303] [cursor=pointer]: +
+              - button "Remover da seleção" [ref=e304] [cursor=pointer]
+        - article [ref=e80]:
+          - img "Lata Integrity, sabor Mirtilo" [ref=e82]
+          - generic [ref=e84]:
+            - generic [ref=e85]: INTEGRIDADE
+            - generic [ref=e87]:
+              - heading "Integrity" [level=3] [ref=e88]
+              - paragraph [ref=e89]: Mirtilo · sabor sugerido
+            - generic [ref=e90]:
+              - strong [ref=e91]: R$ 14,90
+              - generic [ref=e92]: / lata
+            - button "Escolher esta alma +" [ref=e93] [cursor=pointer]:
+              - generic [ref=e94]: Escolher esta alma
+              - generic [ref=e95]: +
+        - article [ref=e96]:
+          - img "Lata Kindness, sabor Kiwi" [ref=e98]
+          - generic [ref=e100]:
+            - generic [ref=e101]: BONDADE
+            - generic [ref=e103]:
+              - heading "Kindness" [level=3] [ref=e104]
+              - paragraph [ref=e105]: Kiwi · sabor sugerido
+            - generic [ref=e106]:
+              - strong [ref=e107]: R$ 14,90
+              - generic [ref=e108]: / lata
+            - button "Escolher esta alma +" [ref=e109] [cursor=pointer]:
+              - generic [ref=e110]: Escolher esta alma
+              - generic [ref=e111]: +
+        - article [ref=e112]:
+          - img "Lata Justice, sabor Limão" [ref=e114]
+          - generic [ref=e116]:
+            - generic [ref=e117]: JUSTIÇA
+            - generic [ref=e119]:
+              - heading "Justice" [level=3] [ref=e120]
+              - paragraph [ref=e121]: Limão · sabor sugerido
+            - generic [ref=e122]:
+              - strong [ref=e123]: R$ 14,90
+              - generic [ref=e124]: / lata
+            - button "Escolher esta alma +" [ref=e125] [cursor=pointer]:
+              - generic [ref=e126]: Escolher esta alma
+              - generic [ref=e127]: +
+        - article [ref=e128]:
+          - img "Lata Bravery, sabor Laranja" [ref=e130]
+          - generic [ref=e132]:
+            - generic [ref=e133]: BRAVURA
+            - generic [ref=e135]:
+              - heading "Bravery" [level=3] [ref=e136]
+              - paragraph [ref=e137]: Laranja · sabor sugerido
+            - generic [ref=e138]:
+              - strong [ref=e139]: R$ 14,90
+              - generic [ref=e140]: / lata
+            - button "Escolher esta alma +" [ref=e141] [cursor=pointer]:
+              - generic [ref=e142]: Escolher esta alma
+              - generic [ref=e143]: +
+        - article [ref=e144]:
+          - img "Lata Perseverance, sabor Uva" [ref=e146]
+          - generic [ref=e148]:
+            - generic [ref=e149]: PERSEVERANÇA
+            - generic [ref=e151]:
+              - heading "Perseverance" [level=3] [ref=e152]
+              - paragraph [ref=e153]: Uva · sabor sugerido
+            - generic [ref=e154]:
+              - strong [ref=e155]: R$ 14,90
+              - generic [ref=e156]: / lata
+            - button "Escolher esta alma +" [ref=e157] [cursor=pointer]:
+              - generic [ref=e158]: Escolher esta alma
+              - generic [ref=e159]: +
+        - complementary [ref=e160]:
+          - heading "Não existe a escolha errada." [level=3] [ref=e161]: Não existea escolhaerrada.
+          - paragraph [ref=e162]: Só a alma que combina com o seu próximo capítulo.
+          - generic [ref=e163]: STAY DETERMINED_
+    - region [ref=e164]:
+      - generic [ref=e165]:
+        - generic [ref=e166]:
+          - generic [ref=e167]:
+            - generic [ref=e168]: "*"
+            - paragraph [ref=e169]: 02 / O QUE TORNA A COLEÇÃO ÚNICA
+          - heading "O próximo power-up é seu." [level=2] [ref=e170]
+        - generic [ref=e171]: ENERGIA PARA A SUA JORNADA
+      - generic [ref=e172]:
+        - article [ref=e173]:
+          - text: "[ + ]"
+          - heading "Power-Up Instantâneo" [level=3] [ref=e174]
+          - paragraph [ref=e175]: Sua barra de energia renovada a cada gole. A fórmula ideal para encarar qualquer rota com foco e determinação.
+        - article [ref=e176]:
+          - text: "[ + ]"
+          - heading "Sete Almas, Sete Sabores" [level=3] [ref=e177]
+          - paragraph [ref=e178]: Uma coleção única inspirada nas virtudes do Underground. Encontre a essência e o sabor que melhor combinam com você.
+        - article [ref=e179]:
+          - text: "[ + ]"
+          - heading "Experiência Colecionável" [level=3] [ref=e180]
+          - paragraph [ref=e181]: Do primeiro SELECT ao último SAVE, cada lata pixel-art foi criada para ser um item lendário no seu setup.
+    - region [ref=e182]:
+      - generic [ref=e183]:
+        - generic [ref=e184]: "*"
+        - paragraph [ref=e185]: 03 / DO SELECT AO START
+      - heading "Sua jornada começa na escolha." [level=2] [ref=e186]
+      - generic [ref=e187]:
+        - article [ref=e188]:
+          - generic [ref=e189]:
+            - generic [ref=e190]: "01"
+            - generic [ref=e191]: →
+          - heading "Encontre sua alma" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Explore as sete versões e escolha a personalidade e o sabor sugerido que mais combinam com você.
+        - article [ref=e194]:
+          - generic [ref=e195]:
+            - generic [ref=e196]: "02"
+            - generic [ref=e197]: →
+          - heading "Monte sua seleção" [level=3] [ref=e198]
+          - paragraph [ref=e199]: Escolha a unidade que deseja levar e revise o produto na sua sacola.
+        - article [ref=e200]:
+          - generic [ref=e201]: "03"
+          - heading "Confira e finalize" [level=3] [ref=e203]
+          - paragraph [ref=e204]: Confirme preço, disponibilidade e condições antes de concluir sua jornada.
+    - region [ref=e205]:
+      - generic [ref=e206]:
+        - generic [ref=e207]:
+          - generic [ref=e208]:
+            - generic [ref=e209]: "*"
+            - paragraph [ref=e210]: 04 / VOZES DO UNDERGROUND
+          - heading "Quem joga junto, conta." [level=2] [ref=e211]
+        - generic [ref=e212]: EXEMPLOS FICTÍCIOS DE AVALIAÇÕES
+      - generic [ref=e213]:
+        - article [ref=e214]:
+          - blockquote [ref=e215]: “A lata de Determination virou parte do meu setup. A arte tem exatamente a vibe que eu queria.”
+          - generic [ref=e216]:
+            - generic [ref=e217]: MR
+            - generic [ref=e218]:
+              - strong [ref=e219]: Marina R.
+              - generic [ref=e220]: PLAYER / DETERMINATION
+        - article [ref=e221]:
+          - blockquote [ref=e222]: “Escolhi Patience pelo coração ciano. O mais difícil foi decidir qual seria a próxima da coleção.”
+          - generic [ref=e223]:
+            - generic [ref=e224]: LM
+            - generic [ref=e225]:
+              - strong [ref=e226]: Lucas M.
+              - generic [ref=e227]: PLAYER / PATIENCE
+        - article [ref=e228]:
+          - blockquote [ref=e229]: “Sou do time Perseverance. O coração roxo e os detalhes da embalagem ganharam meu lado colecionadora.”
+          - generic [ref=e230]:
+            - generic [ref=e231]: BS
+            - generic [ref=e232]:
+              - strong [ref=e233]: Bia S.
+              - generic [ref=e234]: PLAYER / PERSEVERANCE
+      - paragraph [ref=e235]: Depoimentos criados para demonstrar esta seção. Não representam compras ou experiências reais.
+    - region [ref=e236]:
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - generic [ref=e239]: "*"
+          - paragraph [ref=e240]: 05 / ANTES DO START
+        - heading "Alguma dúvida no caminho?" [level=2] [ref=e241]: Alguma dúvidano caminho?
+        - paragraph [ref=e242]: Um checkpoint com o que você precisa saber antes de escolher sua alma.
+        - text: INFORMAÇÕES COMERCIAIS A CONFIRMAR
+      - generic [ref=e243]:
+        - article [ref=e244]:
+          - button "Quais são os sabores da coleção? −" [expanded] [ref=e245] [cursor=pointer]:
+            - generic [ref=e246]: Quais são os sabores da coleção?
+            - generic [ref=e247]: −
+          - paragraph [ref=e248]: As imagens sugerem cereja, ameixa, mirtilo, kiwi, limão, laranja e uva. Os sabores e a formulação final ainda precisam ser confirmados.
+        - article [ref=e249]:
+          - button "Qual é o preço de cada bebida? +" [ref=e250] [cursor=pointer]:
+            - generic [ref=e251]: Qual é o preço de cada bebida?
+            - generic [ref=e252]: +
+        - article [ref=e253]:
+          - button "Posso escolher mais de uma alma? +" [ref=e254] [cursor=pointer]:
+            - generic [ref=e255]: Posso escolher mais de uma alma?
+            - generic [ref=e256]: +
+        - article [ref=e257]:
+          - button "Qual é a composição? Contém cafeína ou açúcar? +" [ref=e258] [cursor=pointer]:
+            - generic [ref=e259]: Qual é a composição? Contém cafeína ou açúcar?
+            - generic [ref=e260]: +
+        - article [ref=e261]:
+          - button "Como funcionam entrega, frete e trocas? +" [ref=e262] [cursor=pointer]:
+            - generic [ref=e263]: Como funcionam entrega, frete e trocas?
+            - generic [ref=e264]: +
+    - generic [ref=e265]:
+      - heading "Toda jornada tem uma escolha." [level=2] [ref=e266]
+      - paragraph [ref=e267]: A sua começa com um coração. Encontre a versão que é a sua cara.
+      - button "Escolher minha alma ↗" [ref=e268] [cursor=pointer]:
+        - text: Escolher minha alma
+        - generic [ref=e269]: ↗
+  - contentinfo [ref=e270]:
+    - generic [ref=e271]:
+      - generic [ref=e272]:
+        - strong [ref=e274]: UNDERTALE ENERGY
+        - navigation "Atalhos do rodapé" [ref=e275]:
+          - button "Os 7 sabores" [ref=e276] [cursor=pointer]
+          - button "Como funciona" [ref=e277] [cursor=pointer]
+          - button "Avaliações" [ref=e278] [cursor=pointer]
+          - button "FAQ" [ref=e279] [cursor=pointer]
+      - generic [ref=e280]:
+        - generic [ref=e281]:
+          - paragraph [ref=e282]: Conceito de coleção inspirado em Undertale. Sem alegação de vínculo ou licenciamento oficial.
+          - paragraph [ref=e283]: Preços ilustrativos e avaliações fictícias. Sabores, composição e condições comerciais a confirmar.
+          - paragraph [ref=e284]: Créditos de idealização do produto à Jakub Pawlowski.
+        - generic [ref=e285]: STAY DETERMINED_
+  - dialog [ref=e305]:
+    - banner [ref=e306]:
+      - generic [ref=e307]:
+        - strong [ref=e308]: UNDERTALE
+        - generic [ref=e309]: ENERGYCOLLECTION
+      - button "← Voltar à sacola 3" [ref=e310] [cursor=pointer]:
+        - generic [ref=e311]: ←
+        - generic [ref=e312]: Voltar à sacola
+        - generic [ref=e313]: "3"
+    - generic [ref=e314]:
+      - generic [ref=e315]:
+        - generic [ref=e316]:
+          - generic [ref=e317]: CHECKPOINT / FINALIZAR PEDIDO
+          - heading "Só mais um passo, alma." [level=2] [ref=e318]
+          - paragraph [ref=e319]: Confira seus dados e conclua esta experiência de pagamento simulado.
+        - generic [ref=e320]:
+          - generic [ref=e321]: 01 SACOLA
+          - generic [ref=e323]: ♥ 02 PAGAMENTO
+      - generic [ref=e324]:
+        - generic [ref=e325]: "[ DEMO ]"
+        - generic [ref=e326]: Preencha apenas dados fictícios. Nenhuma cobrança real será feita.
+    - generic [ref=e327]:
+      - generic [ref=e328]:
+        - generic [ref=e329]:
+          - generic [ref=e330]:
+            - generic [ref=e331]:
+              - generic [ref=e332]: "01"
+              - heading "Seus dados" [level=3] [ref=e333]
+            - generic [ref=e334]: IDENTIFICAÇÃO FICTÍCIA
+          - generic [ref=e335]:
+            - generic [ref=e336]:
+              - generic [ref=e337]: Nome completo
+              - textbox "Nome completo Informe seu nome completo." [invalid] [ref=e464]:
+                - /placeholder: "Ex.: Alex Silva"
+              - generic [ref=e465]: Informe seu nome completo.
+            - generic [ref=e339]:
+              - generic [ref=e340]: E-mail
+              - textbox "E-mail Informe um e-mail válido." [invalid] [ref=e466]:
+                - /placeholder: voce@exemplo.com
+              - generic [ref=e467]: Informe um e-mail válido.
+        - generic [ref=e342]:
+          - generic [ref=e343]:
+            - generic [ref=e344]:
+              - generic [ref=e345]: "02"
+              - heading "Endereço de entrega" [level=3] [ref=e346]
+            - generic [ref=e347]: ENDEREÇO DE EXEMPLO
+          - generic [ref=e348]:
+            - generic [ref=e349]:
+              - generic [ref=e350]: CEP
+              - textbox "CEP Use um CEP com 8 dígitos." [invalid] [ref=e468]:
+                - /placeholder: 00000-000
+              - generic [ref=e469]: Use um CEP com 8 dígitos.
+            - generic [ref=e352]:
+              - generic [ref=e353]: Rua / Avenida
+              - textbox "Rua / Avenida Informe a rua ou avenida." [invalid] [ref=e470]:
+                - /placeholder: Nome da rua
+              - generic [ref=e471]: Informe a rua ou avenida.
+          - generic [ref=e355]:
+            - generic [ref=e356]:
+              - generic [ref=e357]: Número
+              - textbox "Número Informe o número." [invalid] [ref=e472]:
+                - /placeholder: "123"
+              - generic [ref=e473]: Informe o número.
+            - generic [ref=e359]:
+              - generic [ref=e360]: Complemento
+              - textbox "Complemento" [ref=e361]:
+                - /placeholder: Opcional
+            - generic [ref=e362]:
+              - generic [ref=e363]: Bairro
+              - textbox "Bairro Informe o bairro." [invalid] [ref=e474]:
+                - /placeholder: Seu bairro
+              - generic [ref=e475]: Informe o bairro.
+          - generic [ref=e365]:
+            - generic [ref=e366]:
+              - generic [ref=e367]: Cidade
+              - textbox "Cidade Informe a cidade." [invalid] [ref=e476]:
+                - /placeholder: Sua cidade
+              - generic [ref=e477]: Informe a cidade.
+            - generic [ref=e369]:
+              - generic [ref=e370]: Estado
+              - textbox "Estado Use a sigla do estado com 2 letras." [invalid] [ref=e478]:
+                - /placeholder: SP
+              - generic [ref=e479]: Use a sigla do estado com 2 letras.
+          - paragraph [ref=e372]: Frete ilustrativo; condições e prazos de entrega a confirmar.
+        - generic [ref=e373]:
+          - generic [ref=e374]:
+            - generic [ref=e375]:
+              - generic [ref=e376]: "03"
+              - heading "Pagamento" [level=3] [ref=e377]
+            - generic [ref=e378]: SOMENTE DADOS DE TESTE
+          - generic [ref=e379]:
+            - generic [ref=e382]: Cartão de crédito
+            - generic [ref=e383]: MODO TESTE
+          - generic [ref=e384]:
+            - generic [ref=e385]:
+              - generic [ref=e386]: Número do cartão
+              - textbox "Número do cartão Informe um número de cartão válido." [invalid] [ref=e480]:
+                - /placeholder: 4242 4242 4242 4242
+              - generic [ref=e481]: Informe um número de cartão válido.
+            - generic [ref=e388]:
+              - generic [ref=e389]: Nome impresso no cartão
+              - textbox "Nome impresso no cartão Informe o nome impresso no cartão." [invalid] [ref=e482]:
+                - /placeholder: NOME COMPLETO
+              - generic [ref=e483]: Informe o nome impresso no cartão.
+          - generic [ref=e391]:
+            - generic [ref=e392]:
+              - generic [ref=e393]: Validade (MM/AA)
+              - textbox "Validade (MM/AA) Use uma validade futura no formato MM/AA." [invalid] [ref=e484]:
+                - /placeholder: 12/30
+              - generic [ref=e485]: Use uma validade futura no formato MM/AA.
+            - generic [ref=e395]:
+              - generic [ref=e396]: CVV
+              - textbox "CVV Use um CVV com 3 dígitos." [invalid] [ref=e486]:
+                - /placeholder: "123"
+              - generic [ref=e487]: Use um CVV com 3 dígitos.
+            - generic:
+              - generic: Parcelamento simulado
+              - textbox "Parcelamento simulado" [ref=e398]: 1 × de R$ 52,70
+          - paragraph [ref=e399]: Não insira dados reais. Nenhum dado é enviado ou processado.
+      - complementary [ref=e400]:
+        - generic [ref=e401]:
+          - generic [ref=e402]:
+            - generic [ref=e403]:
+              - heading "Sua seleção" [level=3] [ref=e404]
+              - generic [ref=e405]: "[ 03 LATAS ]"
+            - generic [ref=e406]: "PEDIDO FICTÍCIO #DEMO-0007"
+          - generic [ref=e407]:
+            - article [ref=e408]:
+              - generic [ref=e409]:
+                - img "Lata Determination" [ref=e410]
+                - generic [ref=e411]:
+                  - generic [ref=e412]: DETERMINAÇÃO
+                  - heading "Determination" [level=4] [ref=e413]
+                  - paragraph [ref=e414]: Cereja • sabor sugerido
+                  - paragraph [ref=e415]: R$ 14,90 / unidade
+                  - generic [ref=e416]: R$ 29,80
+                  - generic [ref=e417]:
+                    - button "Remover uma unidade de Determination" [ref=e418] [cursor=pointer]: −
+                    - generic [ref=e419]: "2"
+                    - button "Adicionar uma unidade de Determination" [ref=e420] [cursor=pointer]: +
+                    - button "Remover" [ref=e421] [cursor=pointer]
+            - article [ref=e423]:
+              - generic [ref=e424]:
+                - img "Lata Patience" [ref=e425]
+                - generic [ref=e426]:
+                  - generic [ref=e427]: PACIÊNCIA
+                  - heading "Patience" [level=4] [ref=e428]
+                  - paragraph [ref=e429]: Ameixa • sabor sugerido
+                  - paragraph [ref=e430]: R$ 14,90 / unidade
+                  - generic [ref=e431]: R$ 14,90
+                  - generic [ref=e432]:
+                    - button "Remover uma unidade de Patience" [ref=e433] [cursor=pointer]: −
+                    - generic [ref=e434]: "1"
+                    - button "Adicionar uma unidade de Patience" [ref=e435] [cursor=pointer]: +
+                    - button "Remover" [ref=e436] [cursor=pointer]
+          - generic [ref=e438]:
+            - generic [ref=e439]:
+              - paragraph [ref=e440]:
+                - generic [ref=e441]: Subtotal (3 itens)
+                - generic [ref=e442]: R$ 44,70
+              - paragraph [ref=e443]:
+                - generic [ref=e444]: Frete (simulação)
+                - generic [ref=e445]: R$ 8,00
+            - generic [ref=e446]:
+              - generic [ref=e447]:
+                - generic [ref=e448]: Total simulado
+                - generic [ref=e449]: 1 × NO CARTÃO DE TESTE
+              - strong [ref=e450]: R$ 52,70
+            - paragraph [ref=e451]: Valores atualizados automaticamente conforme sua seleção.
+            - generic [ref=e452]:
+              - checkbox "Entendo que esta é uma demonstração sem cobrança real." [checked] [ref=e453]
+              - generic [ref=e454]: Entendo que esta é uma demonstração sem cobrança real.
+            - button "Simular pagamento de R$ 52,70 →" [active] [ref=e455] [cursor=pointer]:
+              - generic [ref=e456]: Simular pagamento de R$ 52,70
+              - generic [ref=e457]: →
+            - generic [ref=e458]: SEM COBRANÇA / SEM ENVIO REAL
+    - contentinfo [ref=e459]:
+      - generic [ref=e460]:
+        - paragraph [ref=e461]: Conceito inspirado em Undertale. Sem vínculo ou licenciamento oficial.
+        - paragraph [ref=e462]: Demonstração visual • Sem processamento, cobrança ou envio real.
+      - generic [ref=e463]: STAY DETERMINED_
+    - alertdialog [ref=e489]:
+      - generic [ref=e491]:
+        - generic [ref=e492]:
+          - generic [ref=e493]: CHECKPOINT / FALHA NA SIMULAÇÃO
+          - button "Fechar aviso" [ref=e494] [cursor=pointer]: ×
+        - generic [ref=e495]:
+          - heading "O pagamento não foi concluído." [level=2] [ref=e496]: O pagamento nãofoi concluído.
+          - paragraph [ref=e497]: Revise os campos destacados. Não houve cobrança e sua seleção continua disponível para correção.
+        - generic [ref=e498]:
+          - generic [ref=e499]:
+            - generic [ref=e500]: "PEDIDO FICTÍCIO #DEMO-0007"
+            - generic [ref=e501]: NÃO CONCLUÍDO
+          - paragraph [ref=e502]: 2 × Determination · 1 × Patience • Cartão final ----
+          - generic [ref=e503]:
+            - generic [ref=e504]: Total da tentativa
+            - strong [ref=e505]: R$ 52,70
+        - generic [ref=e506]:
+          - paragraph [ref=e507]: Confira os dados obrigatórios, os formatos informados e tente novamente.
+          - button "Revisar dados do cartão →" [ref=e508] [cursor=pointer]:
+            - generic [ref=e509]: Revisar dados do cartão
+            - generic [ref=e510]: →
+          - button "Tentar novamente →" [ref=e511] [cursor=pointer]:
+            - generic [ref=e512]: Tentar novamente
+            - generic [ref=e513]: →
+        - generic [ref=e514]: DEMONSTRAÇÃO ESTÁTICA / SEM TRANSAÇÃO REAL

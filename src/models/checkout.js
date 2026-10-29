@@ -14,6 +14,7 @@ export const createCheckoutForm = () => ({
   cardName: "",
   expiry: "",
   cvv: "",
+  demoConsent: false,
 })
 
 export function createCheckoutState() {
@@ -87,6 +88,10 @@ export function validateCheckoutForm(form) {
     errors.expiry = "Use uma validade futura no formato MM/AA."
   }
   if (!/^\d{3}$/.test(form.cvv)) errors.cvv = "Use um CVV com 3 dígitos."
+  if (!form.demoConsent) {
+    errors.demoConsent =
+      "Confirme que você entende que esta é uma demonstração sem cobrança real."
+  }
 
   return errors
 }

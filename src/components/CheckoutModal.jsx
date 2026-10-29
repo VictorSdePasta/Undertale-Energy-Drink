@@ -542,11 +542,26 @@ export default function CheckoutModal({
                 Valores atualizados automaticamente conforme sua seleção.
               </p>
               <label className="demo-confirm">
-                <input type="checkbox" defaultChecked />
+                <input
+                  type="checkbox"
+                  checked={Boolean(form.demoConsent)}
+                  onChange={(event) =>
+                    onFieldChange("demoConsent", event.target.checked)
+                  }
+                  aria-invalid={Boolean(errors.demoConsent)}
+                  aria-describedby={
+                    errors.demoConsent ? "demo-consent-error" : undefined
+                  }
+                />
                 <span>
                   Entendo que esta é uma demonstração sem cobrança real.
                 </span>
               </label>
+              {errors.demoConsent && (
+                <small id="demo-consent-error" className="field-error">
+                  {errors.demoConsent}
+                </small>
+              )}
               <button
                 className="checkout-primary"
                 type="submit"

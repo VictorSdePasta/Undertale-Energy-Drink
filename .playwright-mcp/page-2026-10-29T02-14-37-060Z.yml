@@ -1,0 +1,352 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - button [ref=e5] [cursor=pointer]:
+      - strong [ref=e6]: UNDERTALE
+      - generic [ref=e7]: ENERGYCOLLECTION
+    - navigation "Navegação principal" [ref=e8]:
+      - button "Os 7 sabores" [ref=e9] [cursor=pointer]
+      - button "Como funciona" [ref=e10] [cursor=pointer]
+      - button "Avaliações" [ref=e11] [cursor=pointer]
+      - button "FAQ" [ref=e12] [cursor=pointer]
+    - button "Abrir sacola com 0 item" [ref=e494] [cursor=pointer]:
+      - generic [ref=e14]: Sacola
+      - generic [ref=e15]: "0"
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: BEBIDAS ENERGÉTICAS INSPIRADAS EM UNDERTALE
+        - heading "SETE ALMAS. QUAL É A SUA?" [level=1] [ref=e20]: SETE ALMAS.QUAL É A SUA?
+        - paragraph [ref=e21]: Experimente o sabor da sua alma. Sete personalidades em uma coleção feita para entrar no seu universo.
+        - button "Conhecer os 7 sabores ↗" [ref=e22] [cursor=pointer]:
+          - text: Conhecer os 7 sabores
+          - generic [ref=e23]: ↗
+      - img "Coleção com sete latas Undertale Energy, cada uma com uma alma colorida" [ref=e24]
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: ESCOLHA SUA ALMA
+          - generic [ref=e28]: 07 PERSONALIDADES / 01 COLEÇÃO
+        - generic [ref=e29]:
+          - generic [ref=e30]: Determination
+          - generic [ref=e31]: Patience
+          - generic [ref=e32]: Integrity
+          - generic [ref=e33]: Kindness
+          - generic [ref=e34]: Justice
+          - generic [ref=e35]: Bravery
+          - generic [ref=e36]: Perseverance
+    - region [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e41]: "*"
+            - paragraph [ref=e42]: 01 / ESCOLHA SUA ALMA
+          - heading "Sua próxima escolha tem sabor." [level=2] [ref=e43]
+        - generic [ref=e44]: COLEÇÃO COMPLETA [07]
+      - generic [ref=e45]:
+        - paragraph [ref=e46]: "Preços ilustrativos: R$ 14,90 por unidade. Valores e disponibilidade a confirmar."
+        - text: Sabores sugeridos pelas frutas das imagens; não representam especificações confirmadas da formulação.
+      - generic [ref=e47]:
+        - article [ref=e48]:
+          - img "Lata Determination, sabor Cereja" [ref=e50]
+          - generic [ref=e52]:
+            - generic [ref=e53]: DETERMINAÇÃO
+            - generic [ref=e55]:
+              - heading "Determination" [level=3] [ref=e56]
+              - paragraph [ref=e57]: Cereja · sabor sugerido
+            - generic [ref=e58]:
+              - strong [ref=e59]: R$ 14,90
+              - generic [ref=e60]: / lata
+            - button "Escolher esta alma +" [ref=e495] [cursor=pointer]:
+              - generic [ref=e496]: Escolher esta alma
+              - generic [ref=e497]: +
+        - article [ref=e64]:
+          - img "Lata Patience, sabor Ameixa" [ref=e66]
+          - generic [ref=e68]:
+            - generic [ref=e69]: PACIÊNCIA
+            - generic [ref=e71]:
+              - heading "Patience" [level=3] [ref=e72]
+              - paragraph [ref=e73]: Ameixa · sabor sugerido
+            - generic [ref=e74]:
+              - strong [ref=e75]: R$ 14,90
+              - generic [ref=e76]: / lata
+            - button "Escolher esta alma +" [ref=e77] [cursor=pointer]:
+              - generic [ref=e78]: Escolher esta alma
+              - generic [ref=e79]: +
+        - article [ref=e80]:
+          - img "Lata Integrity, sabor Mirtilo" [ref=e82]
+          - generic [ref=e84]:
+            - generic [ref=e85]: INTEGRIDADE
+            - generic [ref=e87]:
+              - heading "Integrity" [level=3] [ref=e88]
+              - paragraph [ref=e89]: Mirtilo · sabor sugerido
+            - generic [ref=e90]:
+              - strong [ref=e91]: R$ 14,90
+              - generic [ref=e92]: / lata
+            - button "Escolher esta alma +" [ref=e93] [cursor=pointer]:
+              - generic [ref=e94]: Escolher esta alma
+              - generic [ref=e95]: +
+        - article [ref=e96]:
+          - img "Lata Kindness, sabor Kiwi" [ref=e98]
+          - generic [ref=e100]:
+            - generic [ref=e101]: BONDADE
+            - generic [ref=e103]:
+              - heading "Kindness" [level=3] [ref=e104]
+              - paragraph [ref=e105]: Kiwi · sabor sugerido
+            - generic [ref=e106]:
+              - strong [ref=e107]: R$ 14,90
+              - generic [ref=e108]: / lata
+            - button "Escolher esta alma +" [ref=e109] [cursor=pointer]:
+              - generic [ref=e110]: Escolher esta alma
+              - generic [ref=e111]: +
+        - article [ref=e112]:
+          - img "Lata Justice, sabor Limão" [ref=e114]
+          - generic [ref=e116]:
+            - generic [ref=e117]: JUSTIÇA
+            - generic [ref=e119]:
+              - heading "Justice" [level=3] [ref=e120]
+              - paragraph [ref=e121]: Limão · sabor sugerido
+            - generic [ref=e122]:
+              - strong [ref=e123]: R$ 14,90
+              - generic [ref=e124]: / lata
+            - button "Escolher esta alma +" [ref=e125] [cursor=pointer]:
+              - generic [ref=e126]: Escolher esta alma
+              - generic [ref=e127]: +
+        - article [ref=e128]:
+          - img "Lata Bravery, sabor Laranja" [ref=e130]
+          - generic [ref=e132]:
+            - generic [ref=e133]: BRAVURA
+            - generic [ref=e135]:
+              - heading "Bravery" [level=3] [ref=e136]
+              - paragraph [ref=e137]: Laranja · sabor sugerido
+            - generic [ref=e138]:
+              - strong [ref=e139]: R$ 14,90
+              - generic [ref=e140]: / lata
+            - button "Escolher esta alma +" [ref=e141] [cursor=pointer]:
+              - generic [ref=e142]: Escolher esta alma
+              - generic [ref=e143]: +
+        - article [ref=e144]:
+          - img "Lata Perseverance, sabor Uva" [ref=e146]
+          - generic [ref=e148]:
+            - generic [ref=e149]: PERSEVERANÇA
+            - generic [ref=e151]:
+              - heading "Perseverance" [level=3] [ref=e152]
+              - paragraph [ref=e153]: Uva · sabor sugerido
+            - generic [ref=e154]:
+              - strong [ref=e155]: R$ 14,90
+              - generic [ref=e156]: / lata
+            - button "Escolher esta alma +" [ref=e157] [cursor=pointer]:
+              - generic [ref=e158]: Escolher esta alma
+              - generic [ref=e159]: +
+        - complementary [ref=e160]:
+          - heading "Não existe a escolha errada." [level=3] [ref=e161]: Não existea escolhaerrada.
+          - paragraph [ref=e162]: Só a alma que combina com o seu próximo capítulo.
+          - generic [ref=e163]: STAY DETERMINED_
+    - region [ref=e164]:
+      - generic [ref=e165]:
+        - generic [ref=e166]:
+          - generic [ref=e167]:
+            - generic [ref=e168]: "*"
+            - paragraph [ref=e169]: 02 / O QUE TORNA A COLEÇÃO ÚNICA
+          - heading "O próximo power-up é seu." [level=2] [ref=e170]
+        - generic [ref=e171]: ENERGIA PARA A SUA JORNADA
+      - generic [ref=e172]:
+        - article [ref=e173]:
+          - text: "[ + ]"
+          - heading "Power-Up Instantâneo" [level=3] [ref=e174]
+          - paragraph [ref=e175]: Sua barra de energia renovada a cada gole. A fórmula ideal para encarar qualquer rota com foco e determinação.
+        - article [ref=e176]:
+          - text: "[ + ]"
+          - heading "Sete Almas, Sete Sabores" [level=3] [ref=e177]
+          - paragraph [ref=e178]: Uma coleção única inspirada nas virtudes do Underground. Encontre a essência e o sabor que melhor combinam com você.
+        - article [ref=e179]:
+          - text: "[ + ]"
+          - heading "Experiência Colecionável" [level=3] [ref=e180]
+          - paragraph [ref=e181]: Do primeiro SELECT ao último SAVE, cada lata pixel-art foi criada para ser um item lendário no seu setup.
+    - region [ref=e182]:
+      - generic [ref=e183]:
+        - generic [ref=e184]: "*"
+        - paragraph [ref=e185]: 03 / DO SELECT AO START
+      - heading "Sua jornada começa na escolha." [level=2] [ref=e186]
+      - generic [ref=e187]:
+        - article [ref=e188]:
+          - generic [ref=e189]:
+            - generic [ref=e190]: "01"
+            - generic [ref=e191]: →
+          - heading "Encontre sua alma" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Explore as sete versões e escolha a personalidade e o sabor sugerido que mais combinam com você.
+        - article [ref=e194]:
+          - generic [ref=e195]:
+            - generic [ref=e196]: "02"
+            - generic [ref=e197]: →
+          - heading "Monte sua seleção" [level=3] [ref=e198]
+          - paragraph [ref=e199]: Escolha a unidade que deseja levar e revise o produto na sua sacola.
+        - article [ref=e200]:
+          - generic [ref=e201]: "03"
+          - heading "Confira e finalize" [level=3] [ref=e203]
+          - paragraph [ref=e204]: Confirme preço, disponibilidade e condições antes de concluir sua jornada.
+    - region [ref=e205]:
+      - generic [ref=e206]:
+        - generic [ref=e207]:
+          - generic [ref=e208]:
+            - generic [ref=e209]: "*"
+            - paragraph [ref=e210]: 04 / VOZES DO UNDERGROUND
+          - heading "Quem joga junto, conta." [level=2] [ref=e211]
+        - generic [ref=e212]: EXEMPLOS FICTÍCIOS DE AVALIAÇÕES
+      - generic [ref=e213]:
+        - article [ref=e214]:
+          - blockquote [ref=e215]: “A lata de Determination virou parte do meu setup. A arte tem exatamente a vibe que eu queria.”
+          - generic [ref=e216]:
+            - generic [ref=e217]: MR
+            - generic [ref=e218]:
+              - strong [ref=e219]: Marina R.
+              - generic [ref=e220]: PLAYER / DETERMINATION
+        - article [ref=e221]:
+          - blockquote [ref=e222]: “Escolhi Patience pelo coração ciano. O mais difícil foi decidir qual seria a próxima da coleção.”
+          - generic [ref=e223]:
+            - generic [ref=e224]: LM
+            - generic [ref=e225]:
+              - strong [ref=e226]: Lucas M.
+              - generic [ref=e227]: PLAYER / PATIENCE
+        - article [ref=e228]:
+          - blockquote [ref=e229]: “Sou do time Perseverance. O coração roxo e os detalhes da embalagem ganharam meu lado colecionadora.”
+          - generic [ref=e230]:
+            - generic [ref=e231]: BS
+            - generic [ref=e232]:
+              - strong [ref=e233]: Bia S.
+              - generic [ref=e234]: PLAYER / PERSEVERANCE
+      - paragraph [ref=e235]: Depoimentos criados para demonstrar esta seção. Não representam compras ou experiências reais.
+    - region [ref=e236]:
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - generic [ref=e239]: "*"
+          - paragraph [ref=e240]: 05 / ANTES DO START
+        - heading "Alguma dúvida no caminho?" [level=2] [ref=e241]: Alguma dúvidano caminho?
+        - paragraph [ref=e242]: Um checkpoint com o que você precisa saber antes de escolher sua alma.
+        - text: INFORMAÇÕES COMERCIAIS A CONFIRMAR
+      - generic [ref=e243]:
+        - article [ref=e244]:
+          - button "Quais são os sabores da coleção? −" [expanded] [ref=e245] [cursor=pointer]:
+            - generic [ref=e246]: Quais são os sabores da coleção?
+            - generic [ref=e247]: −
+          - paragraph [ref=e248]: As imagens sugerem cereja, ameixa, mirtilo, kiwi, limão, laranja e uva. Os sabores e a formulação final ainda precisam ser confirmados.
+        - article [ref=e249]:
+          - button "Qual é o preço de cada bebida? +" [ref=e250] [cursor=pointer]:
+            - generic [ref=e251]: Qual é o preço de cada bebida?
+            - generic [ref=e252]: +
+        - article [ref=e253]:
+          - button "Posso escolher mais de uma alma? +" [ref=e254] [cursor=pointer]:
+            - generic [ref=e255]: Posso escolher mais de uma alma?
+            - generic [ref=e256]: +
+        - article [ref=e257]:
+          - button "Qual é a composição? Contém cafeína ou açúcar? +" [ref=e258] [cursor=pointer]:
+            - generic [ref=e259]: Qual é a composição? Contém cafeína ou açúcar?
+            - generic [ref=e260]: +
+        - article [ref=e261]:
+          - button "Como funcionam entrega, frete e trocas? +" [ref=e262] [cursor=pointer]:
+            - generic [ref=e263]: Como funcionam entrega, frete e trocas?
+            - generic [ref=e264]: +
+    - generic [ref=e265]:
+      - heading "Toda jornada tem uma escolha." [level=2] [ref=e266]
+      - paragraph [ref=e267]: A sua começa com um coração. Encontre a versão que é a sua cara.
+      - button "Escolher minha alma ↗" [ref=e268] [cursor=pointer]:
+        - text: Escolher minha alma
+        - generic [ref=e269]: ↗
+  - contentinfo [ref=e270]:
+    - generic [ref=e271]:
+      - generic [ref=e272]:
+        - strong [ref=e274]: UNDERTALE ENERGY
+        - navigation "Atalhos do rodapé" [ref=e275]:
+          - button "Os 7 sabores" [ref=e276] [cursor=pointer]
+          - button "Como funciona" [ref=e277] [cursor=pointer]
+          - button "Avaliações" [ref=e278] [cursor=pointer]
+          - button "FAQ" [ref=e279] [cursor=pointer]
+      - generic [ref=e280]:
+        - generic [ref=e281]:
+          - paragraph [ref=e282]: Conceito de coleção inspirado em Undertale. Sem alegação de vínculo ou licenciamento oficial.
+          - paragraph [ref=e283]: Preços ilustrativos e avaliações fictícias. Sabores, composição e condições comerciais a confirmar.
+          - paragraph [ref=e284]: Créditos de idealização do produto à Jakub Pawlowski.
+        - generic [ref=e285]: STAY DETERMINED_
+  - generic [ref=e498]:
+    - banner [ref=e499]:
+      - generic [ref=e500]:
+        - strong [ref=e501]: UNDERTALE
+        - generic [ref=e502]: ENERGYCOLLECTION
+      - generic [ref=e503]:
+        - generic [ref=e504]: PEDIDO
+        - strong [ref=e505]: "#DEMO-0007"
+    - main [ref=e506]:
+      - generic [ref=e507]:
+        - generic [ref=e508]:
+          - generic [ref=e509]: "STATUS: A CAMINHO"
+          - heading "Seu pedido está a caminho." [level=1] [ref=e511]
+          - paragraph [ref=e512]:
+            - text: "Previsão simulada de entrega:"
+            - strong [ref=e513]: segunda-feira, 02 de novembro
+        - generic "Progresso da entrega" [ref=e514]:
+          - generic [ref=e515]:
+            - generic [ref=e516]: ✓
+            - paragraph [ref=e519]: Pedido confirmado
+          - generic [ref=e520]:
+            - generic [ref=e521]: ✓
+            - paragraph [ref=e524]: Em preparação
+          - generic [ref=e525]:
+            - generic [ref=e526]: ✓
+            - paragraph [ref=e529]: A caminho
+          - generic [ref=e530]:
+            - generic [ref=e531]: "04"
+            - paragraph [ref=e533]: Entregue
+      - generic [ref=e534]:
+        - generic [ref=e535]:
+          - generic [ref=e536]:
+            - generic [ref=e537]:
+              - generic [ref=e538]: "01"
+              - heading "Endereço de entrega" [level=2] [ref=e539]
+            - generic [ref=e540]:
+              - generic [ref=e541]: DESTINATÁRIO
+              - strong [ref=e542]: Frisk Teste Determinacao
+              - paragraph [ref=e543]: Rua dos Monsters, 999 — Apto 42 - Torre DeltaCentroSão Paulo/SP · CEP 01001-000
+              - generic [ref=e544]: frisk@exemplo.com
+          - generic [ref=e545]:
+            - generic [ref=e546]:
+              - generic [ref=e547]: "02"
+              - heading "Produtos" [level=2] [ref=e548]
+              - generic [ref=e549]: 1 UNIDADES
+            - article [ref=e551]:
+              - img "Lata Determination" [ref=e552]
+              - generic [ref=e553]:
+                - generic [ref=e554]: DETERMINAÇÃO
+                - heading "Determination" [level=3] [ref=e555]
+                - paragraph [ref=e556]: Cereja · sabor sugerido
+                - generic [ref=e557]: R$ 14,90 / unidade
+              - generic [ref=e558]:
+                - generic [ref=e559]: QTD 01
+                - strong [ref=e560]: R$ 14,90
+        - complementary [ref=e561]:
+          - generic [ref=e562]:
+            - generic [ref=e563]:
+              - generic [ref=e564]: "03"
+              - heading "Resumo financeiro" [level=2] [ref=e565]
+            - generic [ref=e566]:
+              - paragraph [ref=e567]:
+                - generic [ref=e568]: Subtotal
+                - strong [ref=e569]: R$ 14,90
+              - paragraph [ref=e570]:
+                - generic [ref=e571]: Frete (simulação)
+                - strong [ref=e572]: R$ 8,00
+            - generic [ref=e573]:
+              - generic [ref=e574]:
+                - generic [ref=e575]: Total pago
+                - generic [ref=e576]: "PEDIDO #DEMO-0007"
+              - strong [ref=e577]: R$ 22,90
+            - paragraph [ref=e578]: Pagamento simulado aprovado. Nenhuma cobrança real foi processada.
+          - generic [ref=e579]:
+            - button "Baixar comprovante / resumo ↓" [ref=e580] [cursor=pointer]:
+              - generic [ref=e581]: Baixar comprovante / resumo
+              - generic [ref=e582]: ↓
+            - button "Voltar à loja ←" [ref=e583] [cursor=pointer]:
+              - generic [ref=e584]: Voltar à loja
+              - generic [ref=e585]: ←
+    - contentinfo [ref=e586]:
+      - generic [ref=e587]:
+        - paragraph [ref=e588]: Conceito inspirado em Undertale. Sem vínculo ou licenciamento oficial.
+        - paragraph [ref=e589]: Demonstração visual • Status e entrega simulados.
+      - generic [ref=e590]: STAY DETERMINED_
